@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="[https://www.linkedin.com/in/osmandurdag/](https://www.linkedin.com/in/piyush-kumar-b9a933249/)" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.linkedin.com/in/piyush-kumar-b9a933249/" title="LinkedIn Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.geeksforgeeks.org/user/piyushkumar01/"" title="GeeksforGeeks Profile"><img width="22" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg">GeeksforGeeks</a></code>
   <code><a href="https://leetcode.com/u/piyush_0111/" title="LeetCode Profile"><img width="22" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg">LeetCode</a></code>
 </h5>

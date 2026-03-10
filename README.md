@@ -21,10 +21,10 @@
   💻 I love building scalable web applications using the MERN stack and exploring new technologies.
   <br>
   🛠️ Hands-on with React.js, Node.js, Express.js, MongoDB, Redux, Tailwind CSS, and more.
-  <br>
-  🚀 Currently working as Intern at Daemonhive Technologies where I'm building responsive frontends and reusable components.
-  <br>
-  📚 Recently completed MERN stack training from GeeksforGeeks.
+  <!-- <br> -->
+  <!-- 🚀 Currently working as Intern at Daemonhive Technologies where I'm building responsive frontends and reusable components. -->
+  <!-- <br> -->
+  <!-- 📚 Recently completed MERN stack training from GeeksforGeeks. -->
   <br>
   💬 Ask me anything <a href="mailto:piyushkumar020114@gmail.com">via Email</a> or connect on <a href="https://www.linkedin.com/in/piyush-kumar-b9a933249/">LinkedIn</a>.
 </p>
